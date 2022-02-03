@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizza Tip</string>
+    <string name="enter_bill_amount">enter_bill_amount</string>
+    <string name="_0">0</string>
+    <string name="tip1">tip1</string>
+    <string name="tip">tip</string>
+    <string name="total">total</string>
+    <string name="total_bill">total_bill</string>
+</resources>
